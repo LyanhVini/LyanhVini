@@ -4,12 +4,12 @@
 - 🔭 I'm currently working as a Researcher and Developer at the Federal University of Pará (UFPA)
   
 - 🌱 I'm currently learning about Data Science, Applied Computing, Machine Learning, Computer Vision and Game and Application Development with Unity
+
+- 😄 Currently working in [UX-Tracking: User Experience Tracking](https://github.com/Colab-UNIRIO-UFPA/uxtracking.com) and [UX-Tracking Extension](https://github.com/Colab-UNIRIO-UFPA/UX-Tracking-Extension)
   
 - 👯 I’m looking to collaborate on [Khalibras: Comunicação inclusiva através de uma aplicação Web](https://github.com/HaylaAlmeida/Khalibras)
 
 - 📝 My main scientific contributions can be found on my [Lattes](http://lattes.cnpq.br/8719063985949204) page.
-  
-- 😄 Currently working in [UX-Tracking: User Experience Tracking](https://github.com/Colab-UNIRIO-UFPA/uxtracking.com) and [UX-Tracking Extension](https://github.com/Colab-UNIRIO-UFPA/UX-Tracking-Extension)
 
 - 📫 Contact us by e-mail: lyanhlps320@gmail.com
 
