@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Lyanh Vinicios Lopes Pinto, but you can call me "Lyanh Vini</h1>
+<h1 align="center">Hi 👋, i'm Lyanh Vinicios Lopes Pinto, but you can call me "Lyanh Vini"</h1>
 <h3 align="center">Undergraduating in Computer Engineering at the Federal University of Pará (UFPA), member of the Operational Research Laboratory (LPO)</h3>
 
 - 🔭 I'm currently working as a Researcher and Developer at the Federal University of Pará (UFPA)
@@ -26,5 +26,6 @@
 
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyanhvini&show_icons=true&locale=en" alt="lyanhvini" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanhvini&" alt="lyanhvini" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyanhvini&" alt="lyanhvini" />
+</p>
