@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i'm Lyanh Vinicios Lopes Pinto, but you can call me "Lyanh Vini"</h1>
+<h1 align="center">Hi 👋, i'm Lyanh Vinicios Lopes Pinto, but you can call me "Lyanh"</h1>
 <h3 align="center">Undergraduating in Computer Engineering at the Federal University of Pará (UFPA), member of the Operational Research Laboratory (LPO)</h3>
 
 - 🔭 I'm currently working as a Researcher and Developer at the Federal University of Pará (UFPA)
@@ -11,7 +11,7 @@
 
 - 📝 My main scientific contributions can be found on my [Lattes](http://lattes.cnpq.br/8719063985949204) page.
 
-- 📫 Contact us by e-mail: lyanhlps320@gmail.com
+- 📫 Contact us by e-mail: lyanhlps320@gmail.com and for more information, visit my [website](https://linktr.ee/lyanh.vini)
 
 
 <h3 align="center">Connect with me:</h3>
