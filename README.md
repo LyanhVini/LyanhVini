@@ -7,7 +7,7 @@
 
 - 😄 Currently working in [UX-Tracking: User Experience Tracking](https://github.com/Colab-UNIRIO-UFPA/uxtracking.com) and [UX-Tracking Extension](https://github.com/Colab-UNIRIO-UFPA/UX-Tracking-Extension)
   
-- 👯 I’m looking to collaborate on [Khalibras: Comunicação inclusiva através de uma aplicação Web](https://github.com/HaylaAlmeida/Khalibras)
+- 👯 I’m looking to collaborate on [Khalibras: Comunicação inclusiva através de uma aplicação Web](https://github.com/HaylaAlmeida/Khalibras) e [Optimized Assertiveness-Cost Evaluation Method](https://github.com/LyanhVini/OACE-method-random-walk)
 
 - 📝 My main scientific contributions can be found on my [Lattes](http://lattes.cnpq.br/8719063985949204) page.
 
