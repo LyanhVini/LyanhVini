@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, i'm Lyanh Vinicios Lopes Pinto, but you can call me "Lyanh"</h1>
-<h3 align="center">Undergraduating in Computer Engineering at the Federal University of Pará (UFPA), member of the Operational Research Laboratory (LPO)</h3>
+<h3 align="center">Computer Engineer and Master's Student in Electrical Engineering at the Federal University of Pará. Member of the Operational Research Laboratory (LPO) and the Laboratory of Intelligent Interactive Systems (LIIS)</h3>
 
 - 🔭 I'm currently working as a Researcher and Developer at the Federal University of Pará (UFPA)
   
